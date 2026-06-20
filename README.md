@@ -4,7 +4,7 @@ Business-translator.py ist ein CLI Tool und Buisness-translator_gui ist ein GUI 
 
 # Installation
 
-1. git clone https://github.com/candy-c0de/Business-translator/Buisness-translator.py
+1. git clone https://github.com/candy-c0de/Business-translator
 2. Erstellen Sie einen neuen Account auf 'https://openrouter.ai'
 3. Kopieren sie den API Key von OpenRouter
 4. öffnen Sie die Datei Buisness-translator.py
