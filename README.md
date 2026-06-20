@@ -1,6 +1,6 @@
 # Business-translator
 
-Business-translator.py ist ein CLI Tool das einen umgangssprachligen Text in ein Höfliches C1 Englisch unzuschreiben, prfekt für E-Mails oder höffliche Nachrichten.
+Business-translator.py ist ein CLI Tool und Buisness-translator_gui ist ein GUI Tool das aus einen umgangssprachligen Text in ein Höfliches C1 Englisch unzuschreiben, prfekt für E-Mails oder höffliche Nachrichten.
 
 # Installation
 
@@ -12,7 +12,7 @@ Business-translator.py ist ein CLI Tool das einen umgangssprachligen Text in ein
 6. Ersetzten Sie es durch den API key den Sie vorher kopiert haben.
 7. Jetzt können Sie das Python Programm nutzen.
 
-Achtung: Alle schritte sind einmalig.
+Achtung: Alle schritte sind einmalig und gehen sie bei den beiden Python Scripts bei der Installation gleich vor.
 
 
    
